@@ -155,6 +155,7 @@ app.main = (function() {
 				renderFilterResults(filters, students);
 			}
 
+
 		};
 
 		// Execute the needed function depending on the url keyword (stored in temp).
@@ -340,12 +341,12 @@ app.main = (function() {
 			var str = JSON.stringify(filters);
 			// this is the output {"thesis-category"=["dataart"]}
 			// we just want a substring of the category name
-			var temp = str.substr(19, str.length-1);
+			//var temp = str.substr(19, str.length-1);
 			//and get rid of the '}'
-			var clean_url = temp.replace('}', '')
+			//var clean_url = temp.replace('}', '')
 			// console.log(clean_url);
 
-			window.location.hash = '#filter/' + clean_url;
+			window.location.hash = '#filter/' + str;
 		}
 		else{
 			// If it's empty change the hash to '#' (the homepage).
