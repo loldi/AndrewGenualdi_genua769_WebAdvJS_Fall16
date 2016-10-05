@@ -1,0 +1,300 @@
+[
+  {
+    "teamData": [
+      {
+        "date": "Thu, Oct 6",
+        "channel": "cbs, NFLN",
+        "timeleft": "8:25 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Cardinals",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/ARI.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "49ers",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/SF.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "cbs",
+        "timeleft": "1:00 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Patriots",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/NE.png",
+            "record": "(3-1-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Browns",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/CLE.png",
+            "record": "(0-4-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "fox",
+        "timeleft": "1:00 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Eagles",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/PHI.png",
+            "record": "(3-0-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Lions",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/DET.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "fox",
+        "timeleft": "1:00 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Bears",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/CHI.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Colts",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/IND.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "cbs",
+        "timeleft": "1:00 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Titans",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/TEN.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Dolphins",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/MIA.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "fox",
+        "timeleft": "1:00 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Redskins",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/WAS.png",
+            "record": "(2-2-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Ravens",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/BAL.png",
+            "record": "(3-1-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "cbs",
+        "timeleft": "1:00 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Texans",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/HOU.png",
+            "record": "(3-1-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Vikings",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/MIN.png",
+            "record": "(4-0-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "cbs",
+        "timeleft": "1:00 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Jets",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/NYJ.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Steelers",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/PIT.png",
+            "record": "(3-1-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "fox",
+        "timeleft": "4:05 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Falcons",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/ATL.png",
+            "record": "(3-1-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Broncos",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/DEN.png",
+            "record": "(4-0-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "cbs",
+        "timeleft": "4:25 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Bengals",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/CIN.png",
+            "record": "(2-2-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Cowboys",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/DAL.png",
+            "record": "(3-1-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "cbs",
+        "timeleft": "4:25 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Bills",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/BUF.png",
+            "record": "(2-2-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Rams",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/LA.png",
+            "record": "(3-1-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "cbs",
+        "timeleft": "4:25 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Chargers",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/SD.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Raiders",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/OAK.png",
+            "record": "(3-1-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Sun, Oct 9",
+        "channel": "nbc",
+        "timeleft": "8:30 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Giants",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/NYG.png",
+            "record": "(2-2-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Packers",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/GB.png",
+            "record": "(2-1-0)",
+            "points": "--"
+          }
+        ]
+      },
+      {
+        "date": "Mon, Oct 10",
+        "channel": "espn",
+        "timeleft": "8:30 PM  ET",
+        "awayTeam": [
+          {
+            "name": "Buccaneers",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/TB.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ],
+        "homeTeam": [
+          {
+            "name": "Panthers",
+            "logo": "http://i.nflcdn.com/static/site/7.4/img/logos/teams-matte-80x53/CAR.png",
+            "record": "(1-3-0)",
+            "points": "--"
+          }
+        ]
+      }
+    ]
+  }
+]
