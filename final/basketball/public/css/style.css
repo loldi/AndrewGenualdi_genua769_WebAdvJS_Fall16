@@ -1,0 +1,124 @@
+@font-face {
+  font-family: "Backboard";
+  src: url(../djb.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Octin";
+  src: url(../octin.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Sports Night";
+  src: url(../sf.ttf) format("truetype");
+}
+#topbar{
+	height: 70px;
+	width:100%;
+	z-index: 2;
+	 position: fixed;
+
+	 background-color: #243031;
+}
+h1 { 
+	font-family: "Backboard", sans-serif;
+	color: #cad7d9;
+	font-size:42px;
+	padding-top: 0px;
+	margin-top: 10px;
+ }
+ h2 { 
+	font-family: "Sports Night", sans-serif;
+	color: #d8e1e3;
+	 margin:0px;
+ 	 padding:0px;
+	margin-left: 7%;
+ 	 padding-left: 10px;
+ 	 font-size:36px;
+ }
+#user { 
+	font-family: "Octin", sans-serif;
+	font-size: 42px;
+	 margin:0px;
+ 	 padding:0px;
+ 	 padding-right: 10px;
+ 	 padding-top: 2px;
+ 	 vertical-align: text-bottom;
+ }
+body{
+	background-color: #2c3b3e;
+}
+#score { 
+	font-family: "Backboard", sans-serif;
+	font-size: 36px;
+  	padding:0px;
+  	padding-top: 9px;
+  	float:right;
+ }
+
+ .inline{
+ 	display: inline-block;
+ }
+
+ #scoreUnit1{
+ 	 background-color: #d8e1e3;
+ 	 color: #192222;
+ 	 padding-left: 5%;
+ 	 padding-right: 5%;
+ 	 width:90%;
+ }
+ #scoreUnit2{
+ 	 background-color: #cbd7da;
+ 	 color: #192222;
+ 	 padding-left: 5%;
+ 	 padding-right: 5%;
+ 	 width:90%;
+ }
+ #scoreboard{
+ 	float: left ;
+ 	z-index: 2;
+	 position: fixed;
+  	 width: 35% ;
+  	 background-color: #445a5e;
+  	 padding-bottom: 0px;
+  	 padding-top: 5px;
+  	 margin-top: 70px;
+ }
+ #leftPane{
+ 	width: 35% ;
+ 	float:left;
+ 	padding-bottom: 0px;
+  	 padding-top: 5px;
+  	 margin-top: 70px;
+ }
+ #rightPane{
+ 	color: #192222;
+ 	background-color: #59767c;
+ 	width: 55%;
+ 	padding: 5%;
+ 	font-family: "Octin", sans-serif;
+	margin-top: 50px;
+	height:100%;
+	padding-bottom: 10px;
+ }
+
+ #foot{
+ 	color:#192222;
+ 	font-size: 12px;
+ 	text-decoration: none;
+ }
+#super{
+	font-size: 42px;
+	color: #d8e1e3;
+}
+#sub{
+	font-size: 24px;
+}
+
+a:link, a:visited {
+	color: #cad7d9;
+	text-decoration: none;
+}
+
+ a:hover, a:active {
+ 	color: #d8e1e3;
+ 	text-decoration: none;
+}
